@@ -36,7 +36,7 @@ class ContactForm extends Component {
           />
         </label>
         <label className="form__lable">
-          <span>Number</span>
+          <span className="form__lable__text">Number</span>
           <input
             className="form__input"
             type="tel"
